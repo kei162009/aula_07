@@ -1,1 +1,26 @@
-keirrison
+Q1- escreva um algosritmo que calcule a soma de dois números inteiros.
+ 1. ler ou pegar esses dois números;
+ 2. calcule a soma desses números;
+
+Q2- escreva um algaritmo que calcule asoma desses dois números inteiros e mostre o resultado.
+ 1. ler ou pegar esses dois números;
+ 2. calcule asoma desses dois números;
+ 3. mostro o rsultado desse calculo 
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a soma deles e mostre o resultado.
+
+ 1. Leia os números 'a' e 'b';
+ 2. Calcule a soma de 'a' mais 'b';
+ 3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+ 1. Leia os números [a] e [b];
+ 2. Calcule a soma de [a] + [b];
+ 3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+ 1. Leia os números [a] e [b];
+ 2. Calcule a [soma] = [a] + [b];
+ 3. Mostre [soma].
