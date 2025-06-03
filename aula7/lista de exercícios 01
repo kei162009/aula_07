@@ -1,0 +1,185 @@
+1. Soma de dois números
+1. Ler [a]
+
+2. Ler [b]
+
+3. [soma] = [a] + [b]
+
+4. Mostre [soma]
+
+2. Média aritmética de três números
+1. Ler [a]
+
+2. Ler [b]
+
+3. Ler [c]
+
+4. [média] = ([a] + [b] + [c]) / 3
+
+5. Mostre [média]
+
+3. Área de um retângulo
+1. Ler [base]
+
+2. Ler [altura]
+
+3. [área] = [base] * [altura]
+
+4. Mostre [área]
+
+4. Área de um triângulo
+Ler [base]
+
+1. Ler [altura]
+
+2. [área] = ([base] * [altura]) / 2
+
+3. Mostre [área]
+
+5. Conversão de temperatura
+1. Ler [C]
+
+2. [F] = (9 * [C] + 160) / 5
+
+3. Mostre [F]
+
+6. Média ponderada de três notas
+1. Ler [n1], [p1]
+
+2. Ler [n2], [p2]
+
+3. Ler [n3], [p3]
+
+4. [média] = ([n1][p1] + [n2][p2] + [n3]*[p3]) / ([p1] + [p2] + [p3])
+
+5. Mostre [média]
+
+7. Volume de uma caixa retangular
+1. Ler [comprimento]
+
+2. Ler [largura]
+
+3. Ler [altura]
+
+4. [volume] = [comprimento] * [largura] * [altura]
+
+5. Mostre [volume]
+
+8. Valor total da compra
+1. Ler [p1]
+
+2. Ler [p2]
+
+3. Ler [p3]
+
+4. [total] = [p1] + [p2] + [p3]
+
+5. Mostre [total]
+
+9. Tempo total de uma viagem
+1. Ler [tempo_horas]
+
+2. Ler [velocidade]
+
+3. [distância] = [velocidade] * [tempo_horas]
+
+4. [tempo_minutos] = [tempo_horas] * 60
+
+5. Mostre [distância] e [tempo_minutos]
+
+10. Conversão de dias em horas
+1. Ler [dias]
+
+2. [horas] = [dias] * 24
+
+3. Mostre [horas]
+
+11. Conversão de minutos em segundos
+1. Ler [minutos]
+
+2. [segundos] = [minutos] * 60
+
+3. Mostre [segundos]
+
+12. Cálculo do novo salário
+1. Ler [salário]
+
+2. Ler [aumento]
+
+3. [novo_salário] = [salário] + [aumento]
+
+4. Mostre [novo_salário]
+
+13. Cálculo de juros simples
+Ler [C] (capital)
+
+1. Ler [i] (taxa)
+
+2. Ler [t] (tempo)
+
+3.[M] = [C] + ([C] * [i] * [t])
+
+4. Mostre [M]
+
+14. Troco de uma compra
+1. Ler [compra]
+
+2. Ler [pago]
+
+3. [troco] = [pago] - [compra]
+
+4. Mostre [troco]
+
+15. Cálculo do IMC
+1. Ler [peso]
+
+2. Ler [altura]
+
+3. [IMC] = [peso] / ([altura] * [altura])
+
+4. Mostre [IMC]
+
+16. Perímetro de um círculo
+1. Ler [raio]
+
+2. [perímetro] = 2 * 3.14 * [raio]
+
+3. Mostre [perímetro]
+
+17. Diferença de idades
+1. Ler [idade1]
+
+2. Ler [idade2]
+
+3. [diferença] = [idade1] - [idade2] (usar valor absoluto, se necessário)
+
+4. Mostre [diferença]
+
+18. Média de consumo de combustível
+1. Ler [km]
+
+2. Ler [litros]
+
+3. [consumo] = [km] / [litros]
+
+4. Mostre [consumo]
+
+19. Valor a pagar em conta dividida
+1. Ler [total]
+
+2. Ler [pessoas]
+
+3. [valor_por_pessoa] = [total] / [pessoas]
+
+4. Mostre [valor_por_pessoa]
+
+20. Cálculo de desconto
+1. Ler [preço]
+
+2. Ler [desconto]
+
+3. [valor_desconto] = ([preço] * [desconto]) / 100
+
+4. [preço_final] = [preço] - [valor_desconto]
+
+5. Mostre [preço_final]
